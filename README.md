@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning backend technologies
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/osman-okuyan)
+[<img align="left" alt="LinkedIn" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" />]( http://www.linkedin.com/in/osman-okuyan)
 
 <br/>
 
@@ -19,6 +19,8 @@ width="40" height="40" align="left" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" align="left" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="git" 
 width="40" height="40" />
+
+<br/>
 
 ### Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" align="left" alt="go" width="40" height="40" />
