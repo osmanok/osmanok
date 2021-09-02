@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning backend technologies
 
 ### Connect with me
-[<img alt="LinkedIn" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" />]( http://www.linkedin.com/in/osman-okuyan)
+[<img alt="LinkedIn" target="_blank" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" />]( http://www.linkedin.com/in/osman-okuyan)
 
 ### Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" align="left" width="40" height="40" />
